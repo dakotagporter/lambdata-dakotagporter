@@ -13,7 +13,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='lambdata-dakotagporter',
-    version='0.0.1',
+    version='0.0.2',
     author='dakotagporter',
     author_email='dakotap3045@gmail.com',
     description=LONG_DESCRIPTION,

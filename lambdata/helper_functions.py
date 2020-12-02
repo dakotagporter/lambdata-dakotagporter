@@ -18,8 +18,8 @@ def train_test_split_func(df, frac):
     """
     Does a train-test-split using sklearn.
     """
-    train, test = train_test_split(
-                    df, train_size=frac, test_size=(1-frac), random_state=42)
+    train, test = train_test_split(df, train_size=frac, test_size=(1-frac),
+                                   random_state=42)
 
     return train, test
 

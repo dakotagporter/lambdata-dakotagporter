@@ -17,7 +17,7 @@ TestPyPI
 - Scikit-Learn
 
 ## License
-[MIT]()
+[MIT](https://github.com/dakotagporter/lambdata-dakotagporter/blob/main/LICENSE)
 
 ## Links
 https://dakotagporter.github.io/

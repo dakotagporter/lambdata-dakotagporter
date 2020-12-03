@@ -16,6 +16,10 @@ TestPyPI
 - Pandas
 - Scikit-Learn
 
+## License
+[MIT]()
+
 ## Links
 https://dakotagporter.github.io/
+
 https://test.pypi.org/manage/project/lambdata-dakotagporter/releases/

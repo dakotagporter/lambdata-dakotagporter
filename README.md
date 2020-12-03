@@ -8,8 +8,7 @@ A few quick function off the `helper_functions` module, are `null_count()` and `
 A column average (`ColAvg`) class returns the average of any numerical columns in the provided DataFrame.
 
 ## Installation
-`# TestPyPI
-
+`# TestPyPI  
 pip install -i https://test.pypi.org/simple/ lambdata-dakotagporter`
 
 ## Dependencies

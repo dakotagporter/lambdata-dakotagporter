@@ -9,9 +9,13 @@ A column average (`ColAvg`) class returns the average of any numerical columns i
 
 ## Installation
 TestPyPI
+
 `pip install -i https://test.pypi.org/simple/ lambdata-dakotagporter`
 
 ## Dependencies
 - Pandas
 - Scikit-Learn
+
+## Links
+https://dakotagporter.github.io/
 https://test.pypi.org/manage/project/lambdata-dakotagporter/releases/
